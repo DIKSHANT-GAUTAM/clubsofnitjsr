@@ -1,0 +1,93 @@
+        
+			
+			
+              <div class="card">
+                <img src="images/ic_abhishekkumar.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                </div>
+              </div>
+              <div class="card">
+                <img src="images/ic_nishant.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                </div>
+              </div>
+                <div class="card">
+                  <img src="images/ic_shekhar.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                  </div>
+                </div>
+				
+				
+				
+				
+                <div class="card">
+                  <img src="images/ic_shubhamsinha.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                  </div>
+                </div>
+                <div class="card">
+                  <img src="images/ic_pratyush.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                  </div>
+                </div>
+                <div class="card">
+                  <img src="images/ic_rishabh.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                  </div>
+                </div>
+				
+				
+				
+				
+                
+              
+                <div class="card">
+                  <img src="images/ic_navinnishant.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                  </div>
+                </div>
+                <div class="card">
+                  <img src="images/ic_nikhil.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                  </div>
+                </div>
+                <div class="card">
+                  <img src="images/ic_alok.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                  </div>
+                </div>
+				
+				
+				
+				
+				
+				
+				
+				
+                <div class="card">
+                  <img src="images/ic_nisha.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                  </div>
+                </div>
+                <div class="card">
+                  <img src="images/ic_ekansh.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                  </div>
+                </div>
+                <div class="card">
+                  <img src="images/ic_tanisha.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                  </div>
+                </div>
